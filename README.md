@@ -18,9 +18,9 @@ The Terraform module creates the components in the red square.
 
 
 ## Prerequisites:
-These 2 elements 
-CloudTrail should be already created or created after.
-SNS with Email confirmation 
+These 2 elements should be already created.  
+* CloudTrail
+* SNS with Email confirmation 
 
 ## Creation
 Use this code in your terraform project 
