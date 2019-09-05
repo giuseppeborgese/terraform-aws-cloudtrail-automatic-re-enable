@@ -34,4 +34,7 @@ module "sec" {
 
 
 ## Feedback
-if you like this module leave a comment or a thumbs up in the youtube video, subscribe to my youtube channel and follow my article on medium https://medium.com/@giuseppeborgese 
+if you like this module leave a comment or a thumbs up in the youtube video, subscribe to my youtube channel https://www.youtube.com/channel/UC-NS9CMNufWQglUyVQzaFqQ and follow my article on medium https://medium.com/@giuseppeborgese 
+
+## References
+If you want to know more about Security in AWS take a look to this course https://linuxacademy.com/course/aws-certified-security-specialty/ 
