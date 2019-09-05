@@ -27,7 +27,7 @@ Use this code in your terraform project
 
 ``` hcl
 
-module "sec" {
+module "cloudtrail-automatic-re-enable" {
    source = "giuseppeborgese/cloudtrail-automatic-re-enable/aws"
    prefix = "ts"
    sns    = "arn:aws:sns:us-east-1:01234567:giuseppe-sns"
