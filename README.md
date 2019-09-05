@@ -5,7 +5,7 @@ This is a security enforce module for CloudTrail.
 
 ## Why you need this
 
-If somebody hacks your AWS account the first action would be disabled or delete the CloudTrail to cover his tracks. Receive an Alert in this case can save our  buisness from huge and expensive disasters. 
+If somebody hacks your AWS account the first action would be disabled or delete the CloudTrail to cover his tracks. Receive an alert, in this case, can save our business from huge and expensive disasters.
 
 ## Purpose 
 The project catches 2 events one is the StopLogging the other is DeleteTrail.
@@ -36,6 +36,8 @@ module "cloudtrail-automatic-re-enable" {
 
 
 ## In Action Youtube Video
+
+[![AWS Cloudtrail Automatic Re-enable with a Terraform Module](https://img.youtube.com/vi/9HYimiCOLD0/0.jpg)](https://youtu.be/9HYimiCOLD0)
 
 
 ## Feedback
